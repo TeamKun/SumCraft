@@ -1,0 +1,21 @@
+location:
+  start:
+    ==: org.bukkit.Location
+    world: world
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    pitch: 0.0
+    yaw: 0.0
+block:
+  '-1': DIAMOND_BLOCK
+  '0': ORANGE_CONCRETE
+  '1': MAGENTA_CONCRETE
+  '2': LIGHT_BLUE_CONCRETE
+  '3': YELLOW_CONCRETE
+  '4': LIME_CONCRETE
+  '5': PINK_CONCRETE
+  '6': GRAY_CONCRETE
+  '7': LIGHT_GRAY_CONCRETE
+  '8': CYAN_CONCRETE
+  '9': PURPLE_CONCRETE

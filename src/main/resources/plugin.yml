@@ -1,0 +1,5 @@
+name: SumCraft
+version: ${project.version}
+main: net.kunmc.lab.sumcraft.SumCraft
+api-version: 1.16
+authors: [Kamesuta]
